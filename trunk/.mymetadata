@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ezshop"
+  id="myeclipse.1353034269465"
+  context-root="/ezshop"
+  j2ee-spec="6.0"
+  archive="ezshop.war">
+  <attributes>
+    <attribute name="webrootdir" value="web" />
+  </attributes>
+</project-module>
+
